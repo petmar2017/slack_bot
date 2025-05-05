@@ -1,0 +1,77 @@
+{
+  "experts": [
+    {
+      "slack_id": "U01ABCDEFG",
+      "name": "Alex Johnson",
+      "expertise": ["network security", "vpn", "firewall", "infrastructure"],
+      "availability": true,
+      "skills_rating": {
+        "network security": 5,
+        "vpn": 4,
+        "firewall": 5,
+        "infrastructure": 3
+      },
+      "current_load": 1,
+      "max_concurrent_issues": 3
+    },
+    {
+      "slack_id": "U02HIJKLMN",
+      "name": "Sam Taylor",
+      "expertise": ["database", "sql", "postgresql", "data modeling"],
+      "availability": true,
+      "skills_rating": {
+        "database": 5,
+        "sql": 5,
+        "postgresql": 4,
+        "data modeling": 4
+      },
+      "current_load": 0,
+      "max_concurrent_issues": 2
+    },
+    {
+      "slack_id": "U03OPQRSTU",
+      "name": "Jamie Williams",
+      "expertise": ["frontend", "react", "javascript", "css", "ui"],
+      "availability": true,
+      "skills_rating": {
+        "frontend": 5,
+        "react": 5,
+        "javascript": 4,
+        "css": 4,
+        "ui": 3
+      },
+      "current_load": 2,
+      "max_concurrent_issues": 3
+    },
+    {
+      "slack_id": "U04VWXYZAB",
+      "name": "Morgan Lee",
+      "expertise": ["backend", "python", "api", "microservices", "aws"],
+      "availability": true,
+      "skills_rating": {
+        "backend": 5,
+        "python": 5,
+        "api": 4,
+        "microservices": 4,
+        "aws": 3
+      },
+      "current_load": 1,
+      "max_concurrent_issues": 2
+    },
+    {
+      "slack_id": "U05CDEFGHI",
+      "name": "Taylor Chen",
+      "expertise": ["devops", "ci/cd", "kubernetes", "docker", "infrastructure"],
+      "availability": true,
+      "skills_rating": {
+        "devops": 5,
+        "ci/cd": 5,
+        "kubernetes": 4,
+        "docker": 5,
+        "infrastructure": 3
+      },
+      "current_load": 0,
+      "max_concurrent_issues": 3
+    }
+  ]
+} 

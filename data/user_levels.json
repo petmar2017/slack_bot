@@ -1,0 +1,37 @@
+{
+  "U101ABCDE": {
+    "level": "vip",
+    "tags": ["executive", "leadership"],
+    "notes": "CEO, respond with highest priority"
+  },
+  "U102FGHIJ": {
+    "level": "vip",
+    "tags": ["executive", "leadership"],
+    "notes": "CTO, technical priority"
+  },
+  "U103KLMNO": {
+    "level": "standard",
+    "tags": ["manager", "engineering"],
+    "notes": "Engineering Manager"
+  },
+  "U104PQRST": {
+    "level": "standard",
+    "tags": ["manager", "product"],
+    "notes": "Product Manager"
+  },
+  "U105UVWXY": {
+    "level": "regular",
+    "tags": ["engineering", "developer"],
+    "notes": "Senior Developer"
+  },
+  "U106ZABCD": {
+    "level": "regular",
+    "tags": ["engineering", "developer"],
+    "notes": "Junior Developer"
+  },
+  "U107EFGHI": {
+    "level": "regular",
+    "tags": ["marketing", "content"],
+    "notes": "Marketing Specialist"
+  }
+} 
